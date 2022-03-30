@@ -6,7 +6,7 @@ const Footer = () => {
       <div className='max-w-screen-xl mx-auto px-4'>
         <div className=' flex max-w-xs mx-auto items-center justify-between'>
           <a
-            href='https://github.com/shakilahmedatik'
+            href='https://web.facebook.com/sb.shohagh.0/'
             className='text-gray-400 hover:text-gray-800 transition-colors duration-200'
           >
             <svg
